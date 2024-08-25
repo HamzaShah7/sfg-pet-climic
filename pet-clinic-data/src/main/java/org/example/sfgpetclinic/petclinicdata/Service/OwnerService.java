@@ -1,4 +1,4 @@
-package org.example.sfgpetclinic.petclinicdata.model.Service;
+package org.example.sfgpetclinic.petclinicdata.Service;
 
 import org.example.sfgpetclinic.petclinicdata.model.Owner;
 
