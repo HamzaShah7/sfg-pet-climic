@@ -22,7 +22,7 @@ public abstract class AbstractMapService<T extends BaseEntity, ID extends Long> 
                 object.setId(getNextId());
             }
             map.put(object.getId(), object);
-        }else {
+        } else {
             throw new IllegalArgumentException("Object id cannot be null");
         }
         return object;

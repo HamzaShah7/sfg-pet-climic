@@ -1,6 +1,6 @@
 package org.example.sfgpetclinic.petclinicdata.model;
 
-public class PetType extends BaseEntity{
+public class PetType extends BaseEntity {
 
     private String name;
 

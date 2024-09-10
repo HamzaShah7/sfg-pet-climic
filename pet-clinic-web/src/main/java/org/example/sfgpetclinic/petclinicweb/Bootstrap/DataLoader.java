@@ -19,6 +19,7 @@ public class DataLoader implements CommandLineRunner {
         this.vetService = vetService;
         this.ownerService = ownerService;
     }
+
     @Override
     public void run(String... args) throws Exception {
 
